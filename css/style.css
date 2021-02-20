@@ -291,8 +291,7 @@ input:focus{
 }
 
 /* Media Query */
-@media(max-width:425
-px){
+@media(max-width:425px){
     .row .mx-5{
         margin: 0 !important;
     }
